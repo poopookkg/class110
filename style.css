@@ -1,0 +1,23 @@
+body{
+    background-color:paleturquoise;
+    font-family: 'Playfair Display', serif;
+}
+#h2butt{
+    background-color: chocolate;
+}
+#dbutt2{
+    float: right;
+}
+#dbutt1{
+    float: left;
+}
+#web,#snap{
+    border: 10px black ridge ;
+    width:350px ;
+    height: 410px;
+}
+#butt1,#butt2{
+    text-align: center;
+    background-color: chocolate;
+    border-radius: 30px;
+}
